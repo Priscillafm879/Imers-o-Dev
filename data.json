@@ -1,0 +1,305 @@
+[
+  {
+    "nome": "Go",
+    "descricao": "Linguagem de programação compilada, desenvolvida pela Google, focada em simplicidade, eficiência e concorrência.",
+    "data_criacao": "2009",
+    "link": "https://go.dev/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "compilada",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas que se concentra em segurança, velocidade e concorrência, garantindo segurança de memória.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "segurança",
+      "compilada"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação estaticamente tipada, moderna e concisa, interoperável com a JVM e amplamente usada para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "backend",
+      "jvm"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Superset de JavaScript que adiciona tipagem estática opcional, tornando o código mais robusto e manutenível em larga escala.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "tipagem estática"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e integração.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "spa",
+      "interface de usuário"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Framework de interface de usuário que compila o código em JavaScript imperativo, minimizando o trabalho de execução no navegador.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "reatividade"
+    ]
+  },
+  {
+    "nome": "React Native",
+    "descricao": "Framework que permite a construção de aplicações móveis nativas para iOS e Android usando React e JavaScript.",
+    "data_criacao": "2015",
+    "link": "https://reactnative.dev/",
+    "tags": [
+      "framework",
+      "mobile",
+      "multiplataforma",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Kit de ferramentas de UI do Google para a criação de aplicativos compilados nativamente para mobile, web e desktop a partir de uma única base de código.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "framework",
+      "mobile",
+      "multiplataforma",
+      "ui",
+      "dart"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que facilita a criação, implantação e execução de aplicações usando contêineres leves e isolados.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "ferramenta",
+      "devops",
+      "virtualização",
+      "contêiner"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema de orquestração de código aberto para automatizar a implantação, dimensionamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "ferramenta",
+      "devops",
+      "orquestração",
+      "cloud computing"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de nuvem de forma declarativa.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "ferramenta",
+      "devops",
+      "iac",
+      "cloud computing"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless que executa código em resposta a eventos sem a necessidade de provisionar ou gerenciar servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "cloud computing",
+      "serverless",
+      "função",
+      "aws"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de banco de dados relacional de código aberto, robusto e extensível, conhecido por sua conformidade com padrões e recursos avançados.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "sql",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Estrutura de dados em memória usada como cache, banco de dados e message broker, altamente rápida e flexível.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "cache",
+      "em memória"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos, conhecido por sua escalabilidade e flexibilidade na modelagem de dados.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, permitindo que os clientes solicitem exatamente os dados de que precisam.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "linguagem de consulta",
+      "backend",
+      "dados"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Framework de RPC (Remote Procedure Call) de alto desempenho, código aberto, desenvolvido pela Google, usando HTTP/2 e Protocol Buffers.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "framework",
+      "comunicação",
+      "backend",
+      "microserviços"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React para produção que facilita o desenvolvimento de aplicações web com renderização do lado do servidor (SSR) e geração de sites estáticos.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "ssr",
+      "react"
+    ]
+  },
+  {
+    "nome": "NestJS",
+    "descricao": "Framework Node.js progressivo para a construção de aplicações backend eficientes e escaláveis, usando TypeScript e conceitos de arquitetura modular.",
+    "data_criacao": "2017",
+    "link": "https://nestjs.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "typescript",
+      "node.js"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a configuração e o desenvolvimento de aplicações Spring, permitindo criar rapidamente serviços de nível de produção.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "jvm",
+      "microserviços"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma distribuída de streaming de eventos, altamente escalável e tolerante a falhas, usada para pipelines de dados de alto throughput.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "dados",
+      "middleware",
+      "big data"
+    ]
+  },
+  {
+    "nome": "RabbitMQ",
+    "descricao": "Software de Message Broker de código aberto que implementa o Advanced Message Queuing Protocol (AMQP), facilitando a comunicação assíncrona.",
+    "data_criacao": "2007",
+    "link": "https://www.rabbitmq.com/",
+    "tags": [
+      "middleware",
+      "mensageria",
+      "backend",
+      "protocolo amqp"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Servidor de automação de código aberto usado para implementar processos de Integração Contínua e Entrega Contínua (CI/CD).",
+    "data_criacao": "2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "ferramenta",
+      "devops",
+      "ci/cd",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Toolkit de monitoramento e alerta de código aberto projetado para confiabilidade e escalabilidade, muito popular em ambientes Kubernetes.",
+    "data_criacao": "2012",
+    "link": "https://prometheus.io/",
+    "tags": [
+      "ferramenta",
+      "devops",
+      "monitoramento",
+      "observabilidade"
+    ]
+  },
+  {
+    "nome": "Solidity",
+    "descricao": "Linguagem de programação orientada a objetos para escrever contratos inteligentes, usada principalmente na blockchain Ethereum.",
+    "data_criacao": "2014",
+    "link": "https://soliditylang.org/",
+    "tags": [
+      "linguagem de programação",
+      "blockchain",
+      "smart contract",
+      "ethereum",
+      "web3"
+    ]
+  }
+
+]
